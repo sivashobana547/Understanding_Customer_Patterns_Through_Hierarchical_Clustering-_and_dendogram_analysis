@@ -1,0 +1,2 @@
+# Understanding_Customer_Patterns_Through_Hierarchical_Clustering-_and_dendogram_analysis
+🔬 Technical (≈350 letters)  This project applies hierarchical clustering with distance metrics and dendrogram analysis to identify natural customer groupings. The dendrogram enables multi-level segmentation without predefined clusters, offering clear insight into customer similarity, structure, and hierarchical relationships.
